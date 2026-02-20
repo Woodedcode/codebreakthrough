@@ -17,10 +17,31 @@
 # print(id(my_grades) == id(your_grades))
 
 
-print("A before B?", "ABC" < "BCD")
-print("AZC" < "ACD")
+# print("A before B?", "ABC" < "BCD")
+# print("AZC" < "ACD")
+# print(not "A" == "B")
 
 
+# name = input("What is your name? ")
+# age = input("What is your age? ")
+
+# if name == "Ryan" & age == 36:
+#     print("Welcome Ryan!")
+#     print("How are you Ryan")
+# else:
+#     print("Get lost")
+
+# ryan_is_cool = False
+# if ryan_is_cool:
+#     print("Lets be friends")
+# else:
+#     print("Ewww")
+
+thunder = False
+lightning = True
+
+if lightning or thunder:
+    print("Dont go swimming")
 
 
 
